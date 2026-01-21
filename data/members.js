@@ -186,16 +186,16 @@ window.siteMembers = {
       link:"",
       noteZh:"实习于科大讯飞（合肥）",
       noteEn: "Interning at iFLYTEK (Hefei)",
-      photo:"",
+      photo:"data/images/于宏悦.jpeg",
       initials:"HY"
       },
       {
-      nameZh:"马粲月",
+      nameZh:"马粲玥",
       nameEn:"Canyue Ma",
       link:"",
       noteZh:"实习于科大讯飞（合肥）",
       noteEn: "Interning at iFLYTEK (Hefei)",
-      photo:"",
+      photo:"data/images/马粲玥.jpeg",
       initials:"CM"
       },
       {
@@ -401,7 +401,7 @@ window.siteMembers = {
       {
         nameZh: "刘原武",
         nameEn: "Yuanwu Liu",
-        destZh: "就职于国家电网",
+        destZh: "就职于内蒙古电力集团",
         destEn: "Next: STATE GRID Corporation of China",
         link: "",
         photo: "",
